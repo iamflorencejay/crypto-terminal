@@ -5,7 +5,7 @@ app.config = (function() {
 	'use strict';
 
 	var config = {
-		primaryDisplayCurrencies: ['BTC', 'CZK', 'EUR', 'GBP', 'LTC', 'USD'],
+		primaryDisplayCurrencies: ['BTC', 'CZK', 'EUR', 'GBP', 'LTC', 'USD', 'PHP'],
 		supportEmail: 'cryptoterminal.eu@gmail.com',
 		cache: {
 			onAppStartClearOlderThan: 86400000,// milliseconds
